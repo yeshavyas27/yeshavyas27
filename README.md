@@ -1,7 +1,7 @@
 <h1 align="center">Hello World👋, I'm Yesha</h1>
 <h3 align="center">A creative, curious and noobie developer from India</h3>
 
-- 🌱 I’m currently learning **Backend Web Development and Machine Learning**
+- 🌱 I’m currently learning **Backend Web Development, Machine Learning, Data Science**
 
 - 👯 I’m looking to collaborate on **any fun projects**
 
