@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋, I'm Yesha</h1>
-<h3 align="center">A creative, geeky and noob python developer from India</h3>
+<h3 align="center">A creative, curious and noobie developer from India</h3>
 
 - 🌱 I’m currently learning **Backend Web Development and Machine Learning**
 
