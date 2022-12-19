@@ -2,7 +2,7 @@
 <h3 align="center">A creative, curious and noobie developer from India</h3>
 
 
-🌱 I’m currently learning Backend Web Development, Machine Learning, Data Science<br><br>👯 I’m looking to collaborate on any fun projects<br><br>🤝 I’m looking for help with upskilling myself and learning new technologies<br><br>💬 Ask me about everthing tech<br><br>📫 How to reach me yeshavyas27@gmail.com<br><br>⚡ Fun fact I laugh at my own jokes
+🌱 I’m currently learning Backend Web Development, Machine Learning, Data Science<br><br>👯 I’m looking to collaborate on any fun projects<br><br>🤝 I’m looking for help with upskilling myself and learning new technologies<br><br>💬 Ask me about everthing tech<br><br>📫 How to reach me yeshavyas27@gmail.com<br><br>⚡ Fun fact I am too curious for my own good.
 
 
 ## 🌐 Socials:
