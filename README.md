@@ -1,4 +1,4 @@
-<h1 align="center">Hello World👋, I'm Yesha</h1>
+<h1 align="center">Hola!! It's Yesha</h1>
 <h3 align="center">Get to know me 👀</h3>
 
 
