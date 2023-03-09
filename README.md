@@ -1,8 +1,8 @@
 <h1 align="center">Hello World👋, I'm Yesha</h1>
-<h3 align="center">A creative and resilient developer from India</h3>
+<h3 align="center">Get to know me 👀</h3>
 
 
-🌱 I’m currently learning Backend Web Development, Machine Learning, Data Science<br><br>👯 I’m looking to collaborate on any fun projects<br><br>🤝 I’m looking for help with upskilling myself and learning new technologies<br><br>💬 Ask me about everthing tech, One Piece Anime and mystery-suspense books<br><br>📫 How to reach me yeshavyas273@gmail.com<br>
+🌱 I’m currently learning Backend Web Development<br><br>👯 I’m looking to collaborate on any fun projects<br><br>🤝 I’m looking for help with learning Data Science<br><br>💬 I'm Obsessed with One piece Anime and Critical Thinking<br><br>📫 How to reach me yeshavyas273@gmail.com<br>
 
 
 ## 🌐 Socials:
