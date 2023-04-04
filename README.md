@@ -2,7 +2,7 @@
 <h3 align="center">Pleased to see you on the other side. <br> Get to know me 👀</h3>
 
 
-🌱 I’m currently learning Backend Web Development<br><br>👯 I’m looking to collaborate on any fun projects<br><br>🤝 I’m looking for help with learning Machine Learning<br><br>💬 I'm Obsessed with One piece Anime and Critical Thinking<br><br>📫 How to reach me yeshavyas273@gmail.com<br>
+🌱 I’m currently learning ML<br><br>👯 I’m looking to collaborate on any fun projects <br><br>💬 I'm Obsessed with One piece Anime and good food<br><br>📫 How to reach me yeshavyas273@gmail.com<br>
 
 
 ## 🌐 Socials:
