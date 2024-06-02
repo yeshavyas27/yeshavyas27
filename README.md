@@ -1,5 +1,5 @@
 <h1 align="center">Hello! It's Yesha</h1>
-<h3 align="center">Pleased to see you on the other side. <br> Get to know me 👀</h3>
+<h3 align="center">Happy to see you on the other side, <br> Get to know me 👀</h3>
 
 
 🌱 I’m currently learning ML<br><br>👯 I’m looking to collaborate on full stack projects and ML research. <br><br>💬 Always up for chit chat about life and anime<br><br>📫 How to reach me yeshavyas273@gmail.com<br>
