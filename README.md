@@ -2,7 +2,7 @@
 <h3 align="center">Happy to see you on the other side, <br> Get to know me 👀</h3>
 
 
-🌱 I’m currently building and learning about deep learning.<br><br>👯 I’m looking to collaborate on full-stack projects and ML research. <br><br>💬My hobbies include reading books that pique my interest. I also enjoy sketching and cooking.<br><br>📫 How to reach me yeshavyas273@gmail.com<br>
+🌱 I’m currently exploring deep learning and quant.<br><br>👯 I’m looking to collaborate on full-stack projects and ML research. <br><br>💬My hobbies include reading books that pique my interest. I also enjoy sketching and cooking.<br><br>📫 How to reach me yeshavyas273@gmail.com<br>
 
 
 ## 🌐 Socials:
